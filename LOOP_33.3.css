@@ -1,0 +1,6 @@
+th, td {
+  border: 2px solid black;
+  width: 5em;
+  height: 5em;
+  background-color: rgb(32, 51, 3);
+}
